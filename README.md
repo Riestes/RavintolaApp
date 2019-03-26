@@ -1,4 +1,6 @@
 # RavintolaApp
+Ensimmäisen vuoden kouluprojekti pienryhmissä.
+
 Ravintolasovellus jossa pöytävaraukset, tilauksien hallinta sekä pöytävaraukset.
 Sovellus ei toimi täysin moitteetta esimerkiksi pöytäväraraus jäi tässä vaiheessa puutteelliseksi.
 
