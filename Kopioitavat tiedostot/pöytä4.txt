@@ -1,0 +1,6 @@
+Annos: Karitsan paahtopaistia, Lakton: ei, Gluton: on, Hinta: 25
+Annos: Marenkia, Lakton: ei, Gluton: ei, Hinta: 2
+Yhteensä 27
+PVM 20.12.2017
+KLO 13:23:46
+Tilaus valmis: ei

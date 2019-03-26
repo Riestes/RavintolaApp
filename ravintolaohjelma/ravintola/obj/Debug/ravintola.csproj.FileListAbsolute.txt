@@ -1,0 +1,81 @@
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\bin\Debug\ravintola.exe.config
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\bin\Debug\ravintola.exe
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\bin\Debug\ravintola.pdb
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\bin\Debug\Newtonsoft.Json.dll
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\bin\Debug\Newtonsoft.Json.xml
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.csprojResolveAssemblyReference.cache
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.Admin.resources
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.Properties.Resources.resources
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.csproj.GenerateResource.Cache
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.exe
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.pdb
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.keittio.resources
+D:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.tarjoilija.resources
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\bin\Debug\ravintola.exe.config
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\bin\Debug\ravintola.exe
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\bin\Debug\ravintola.pdb
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\bin\Debug\Newtonsoft.Json.dll
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\bin\Debug\Newtonsoft.Json.xml
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.csprojResolveAssemblyReference.cache
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.Admin.resources
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.keittio.resources
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.poytavaraus.resources
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.Properties.Resources.resources
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.ruokalistamuokkaus.resources
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.tarjoilija.resources
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.csproj.GenerateResource.Cache
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.csproj.CoreCompileInputs.cache
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.exe
+H:\HAMK\Ohjelmointiprojekti\ravintola\ravintola\obj\Debug\ravintola.pdb
+E:\RAVINTOLA !!!\ravintola\ravintola\bin\Debug\ravintola.exe.config
+E:\RAVINTOLA !!!\ravintola\ravintola\bin\Debug\ravintola.exe
+E:\RAVINTOLA !!!\ravintola\ravintola\bin\Debug\ravintola.pdb
+E:\RAVINTOLA !!!\ravintola\ravintola\bin\Debug\Newtonsoft.Json.dll
+E:\RAVINTOLA !!!\ravintola\ravintola\bin\Debug\Newtonsoft.Json.xml
+E:\RAVINTOLA !!!\ravintola\ravintola\obj\Debug\ravintola.csprojResolveAssemblyReference.cache
+E:\RAVINTOLA !!!\ravintola\ravintola\obj\Debug\ravintola.Admin.resources
+E:\RAVINTOLA !!!\ravintola\ravintola\obj\Debug\ravintola.keittio.resources
+E:\RAVINTOLA !!!\ravintola\ravintola\obj\Debug\ravintola.poytavaraus.resources
+E:\RAVINTOLA !!!\ravintola\ravintola\obj\Debug\ravintola.Properties.Resources.resources
+E:\RAVINTOLA !!!\ravintola\ravintola\obj\Debug\ravintola.ruokalistamuokkaus.resources
+E:\RAVINTOLA !!!\ravintola\ravintola\obj\Debug\ravintola.tarjoilija.resources
+E:\RAVINTOLA !!!\ravintola\ravintola\obj\Debug\ravintola.csproj.GenerateResource.Cache
+E:\RAVINTOLA !!!\ravintola\ravintola\obj\Debug\ravintola.exe
+E:\RAVINTOLA !!!\ravintola\ravintola\obj\Debug\ravintola.pdb
+E:\RAVINTOLA !!!\ravintola\ravintola\bin\Debug\Varaukset.mdf
+E:\RAVINTOLA !!!\ravintola\ravintola\bin\Debug\Varaukset_log.ldf
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\Varaukset.mdf
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\Varaukset_log.ldf
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\ravintola.exe.config
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\ravintola.exe
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\ravintola.pdb
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\Newtonsoft.Json.dll
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\Newtonsoft.Json.xml
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.csprojResolveAssemblyReference.cache
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.Admin.resources
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.keittio.resources
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.poytavaraus.resources
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.Properties.Resources.resources
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.ruokalistamuokkaus.resources
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.tarjoilija.resources
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.csproj.GenerateResource.Cache
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.exe
+P:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.pdb
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\Varaukset.mdf
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\Varaukset_log.ldf
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\ravintola.exe.config
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\ravintola.exe
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\ravintola.pdb
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\Newtonsoft.Json.dll
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\bin\Debug\Newtonsoft.Json.xml
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.csprojResolveAssemblyReference.cache
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.Admin.resources
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.keittio.resources
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.poytavaraus.resources
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.Properties.Resources.resources
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.ruokalistamuokkaus.resources
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.tarjoilija.resources
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.csproj.GenerateResource.Cache
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.csproj.CoreCompileInputs.cache
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.exe
+G:\RAVINTOLA TOIMII\ravintolaohjelma\ravintola\obj\Debug\ravintola.pdb

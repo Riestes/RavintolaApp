@@ -1,0 +1,2 @@
+Siirrä kaikki tiedostot kansiosta "kopioitavat tiedostot" 
+tietokoneesi "C:/temp" kansioon

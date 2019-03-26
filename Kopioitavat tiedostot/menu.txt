@@ -1,0 +1,6 @@
+﻿[{"id":1,"nimi":"Smoking Hot Bataattisoppa","hinta":6.0,"lakton":"ei","gluton":"on"},
+{"id":2,"nimi":"Karitsan paahtopaistia","hinta":25.0,"lakton":"ei","gluton":"on"},
+{"id":3,"nimi":"Hawaijinleike","hinta":9.0,"lakton":"on","gluton":"ei"},
+{"id":4,"nimi":"Ankkaconfit, artisokkapyrettä ja tomaattichutney","hinta":30.0,"lakton":"ei","gluton":"on"},
+{"id":5,"nimi":"Suklaapitsa","hinta":9.0,"lakton":"ei","gluton":"ei"},
+{"id":6,"nimi":"Simajäätelöä ja munkkicrumblea","hinta":6.7,"lakton":"ei","gluton":"ei"}]

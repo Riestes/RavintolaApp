@@ -1,0 +1,6 @@
+Annos: Makkarasoppa, Lakton: on, Gluton: on, Hinta: 10
+Annos: Hawaijinleike, Lakton: on, Gluton: ei, Hinta: 9
+Yhteensä 19
+PVM 20.12.2017
+KLO 13:23:42
+Tilaus valmis: ei
